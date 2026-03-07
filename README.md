@@ -22,13 +22,13 @@ I care about:
 
 ## Technical Skills
 
-**Languages: **
+**Languages:** 
 Java  •  C/C++  •  Python  •  SQL
 
-**Technologies: **
+**Technologies:** 
 Git  •  Linux  •  Spring  •  Firebase
 
-**Concepts: ** 
+**Concepts:** 
 Data Structures  •  Concurrency  •  Operating Systems  •  Networking
 
 ---
