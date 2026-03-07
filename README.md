@@ -9,21 +9,26 @@ Resume: [View Resume](https://docs.google.com/document/d/e/2PACX-1vTCnuLyWMzxys4
 
 ## About
 
-Computer Science student at Cal Poly Pomona interested in backend engineering, systems development, and scalable software design.
+I am a Computer Science student at Cal Poly Pomona interested in backend engineering, systems development, and scalable software design.
 
 My work focuses on building reliable backend systems, experimenting with low-level programming concepts, and developing practical tools such as shells, messaging platforms, and database-backed applications.
+
+I care about:
+- clean code
+- strong engineering fundamentals
+- understanding how systems actually work
 
 ---
 
 ## Technical Skills
 
-Languages  
+**Languages**
 Java • C/C++ • Python • SQL
 
-Technologies  
+**Technologies**
 Git • Linux • Spring • Firebase
 
-Concepts  
+**Concepts** 
 Data Structures • Concurrency • Operating Systems • Networking
 
 ---
@@ -36,6 +41,12 @@ Lead developer for a Cal Poly Pomona Socially Responsible Computing (SRC) projec
 - Designing a backend system to track seed inventory and exchange records
 - Coordinating development of the application with a small student team
 - Building the system using Java and Spring to support long-term farm data management
+
+
+Java • Spring • Database Design
+
+Repository:  
+https://github.com/TheFishEy/evergreen-project
 
 ---
 
@@ -55,6 +66,9 @@ Systems programming project written in C.
 - Modeled Unix process control behavior
 - Optimized execution overhead by ~25%
 
+Repository:  
+https://github.com/TheFishEy/24fa-351/command-shell-TheFishEy
+
 ---
 
 ### Process Forking Simulation
@@ -66,21 +80,25 @@ Concurrency simulation in C.
 
 ---
 
-## Other Projects
+## Education
 
-- 3D Printed Mouse Engineering Project  
-- Dragonburner CR-10 Hotend Optimization  
-- Hackathon 2D Game (Java)
+**Cal Poly Pomona**
+
+Bachelor of Science in Computer Science  
+Expected Graduation: December 2027
+
+Relevant Coursework:
+
+Data Structures  
+Software Engineering  
+Algorithm Engineering  
+Database Systems  
+Network Security
 
 ---
 
-## Links
+## Contact
 
-Website  
-https://thefishey.com
-
-GitHub  
-https://github.com/TheFishEy
-
-Resume  
-https://docs.google.com/document/d/e/2PACX-XXXX/pub
+Email: patricksnowah@gmail.com  
+GitHub: https://github.com/TheFishEy  
+Portfolio: https://thefishey.com
