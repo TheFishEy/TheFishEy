@@ -82,18 +82,6 @@ Concurrency simulation in C.
 Bachelor of Science in Computer Science  
 Expected Graduation: December 2027
 
-Relevant Coursework:
-
-Data Structures  
-Software Engineering  
-Algorithm Engineering  
-Database Systems  
-Network Security
-
----
-
-## Contact
-
 Email: patricksnowah@gmail.com  
 GitHub: https://github.com/TheFishEy  
 Portfolio: https://thefishey.com
