@@ -13,11 +13,6 @@ I am a Computer Science student at Cal Poly Pomona interested in backend enginee
 
 My work focuses on building reliable backend systems, experimenting with low-level programming concepts, and developing practical tools such as shells, messaging platforms, and database-backed applications.
 
-I care about:
-- clean code
-- strong engineering fundamentals
-- understanding how systems actually work
-
 ---
 
 ## Technical Skills
@@ -29,7 +24,7 @@ Java  •  C/C++  •  Python  •  SQL
 Git  •  Linux  •  Spring  •  Firebase
 
 **Concepts:** 
-Data Structures  •  Concurrency  •  Operating Systems  •  Networking
+Data Structures  •  Algorithim Engineering  •  Operating Systems  •  Networking Fundamentals •  System Design
 
 ---
 
