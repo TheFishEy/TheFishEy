@@ -10,7 +10,7 @@ Hi! I'm Patrick, a 3rd year Computer Science student at Cal Poly Pomona with a f
 
 ## Languages & Tools 
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
