@@ -37,12 +37,22 @@ Hi! I'm Patrick, a 3rd year Computer Science student at Cal Poly Pomona with a f
 <img align="left" width="100" style="border-radius:12px; margin-right:12px;" src="https://raw.githubusercontent.com/TheFishEy/TheFishEy/main/assets/evergreen.jpg">
 </a>
 
-
+<!--  PROJECT 1: EVERGREEN -->
 **Fullstack Developer** \
 [**Evergreen Seed Database**](https://github.com/TheFishEy/evergreen-project) • SRC Research Project • `Java` `Spring` `Database Design` \
 Lead developer for a Cal Poly Pomona **Socially Responsible Computing (SRC)** project building a database and interface system for the non-profit **Lopez Urban Farm**. \
 <br clear="left"/>
 
+<br>
+<a href="https://github.com/TheFishEy/wsb-sentiment-tracker">
+<img align="left" width="100" style="border-radius:12px; margin-right:12px;" src="https://raw.githubusercontent.com/TheFishEy/TheFishEy/main/assets/redditStock.jpg">
+</a>
+
+<!--  PROJECT 2: REDDIT WALLSTREETBETS STOCK -->
+**Backend / Data Developer** \
+[**WallStreetBets Sentiment Tracker**](https://github.com/TheFishEy/wsb-sentiment-tracker) • Personal Project • `Python` `Reddit API` `Pandas` `SQL` \
+Building a system to analyze stock movement on **r/wallstreetbets** by collecting posts and comments, extracting ticker mentions, and ranking trending stocks using sentiment and engagement signals. \
+<br clear="left"/>
 
 
 ---
@@ -74,18 +84,6 @@ Concurrency simulation in C.
 - Modeled process creation patterns
 - Benchmarked execution differences between fork strategies
 - Explored asynchronous execution behavior
-
-
-
-<br><br>
-<a href="https://github.com/TheFishEy/wsb-sentiment-tracker">
-<img align="left" width="100" style="border-radius:12px; margin-right:12px;" src="https://raw.githubusercontent.com/TheFishEy/TheFishEy/main/assets/redditStock.jpg">
-</a>
-
-**Backend / Data Developer** \
-[**WallStreetBets Sentiment Tracker**](https://github.com/TheFishEy/wsb-sentiment-tracker) • Personal Project • `Python` `Reddit API` `Pandas` `SQL` \
-Building a system to analyze stock movement on **r/wallstreetbets** by collecting posts and comments, extracting ticker mentions, and ranking trending stocks using sentiment and engagement signals. \
-<br clear="left"/>
 
 
 
