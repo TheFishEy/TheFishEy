@@ -36,8 +36,7 @@ Hi! I'm Patrick, a 3rd year Computer Science student at Cal Poly Pomona with a f
 
 
 **Fullstack Developer** \
-[**Evergreen Seed Database**](https://github.com/TheFishEy/evergreen-project) • SRC Research Project \
-Languages & Technologies: `Java` `Spring` `Database Design` \
+[**Evergreen Seed Database**](https://github.com/TheFishEy/evergreen-project) • SRC Research Project • `Java` `Spring` `Database Design` \
 Lead developer for a Cal Poly Pomona **Socially Responsible Computing (SRC)** project building a database and interface system for the non-profit **Lopez Urban Farm**. \
 <br clear="left"/>
 
