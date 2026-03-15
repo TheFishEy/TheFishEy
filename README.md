@@ -3,11 +3,8 @@ Computer Science Student — Cal Poly Pomona
 Aspiring Backend / Systems Software Engineer
 
 [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-blue?style=for-the-badge&logo=PORTFOLILO)](https://thefishey.com)
+[![RESUME](https://img.shields.io/badge/RESUME-skyblue?style=for-the-badge&logo=java)](https://docs.google.com/document/d/e/2PACX-1vTCnuLyWMzxys4rbMPkSI8mw9-GnEUeHmBwOSzXaHOVzWs8k4f0yRrmtQCE6aytvNDg6iYIbxEisgLw/pub)
 
-
-[![RESUME](https://img.shields.io/badge/RESUME-sapphire?style=for-the-badge&logo=java)](https://docs.google.com/document/d/e/2PACX-1vTCnuLyWMzxys4rbMPkSI8mw9-GnEUeHmBwOSzXaHOVzWs8k4f0yRrmtQCE6aytvNDg6iYIbxEisgLw/pub)
-
-Resume: [View Resume](https://docs.google.com/document/d/e/2PACX-1vTCnuLyWMzxys4rbMPkSI8mw9-GnEUeHmBwOSzXaHOVzWs8k4f0yRrmtQCE6aytvNDg6iYIbxEisgLw/pub)
 
 ---
 
