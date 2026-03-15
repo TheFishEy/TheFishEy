@@ -27,7 +27,29 @@ Hi! I'm Patrick, a 3rd year Computer Science student at Cal Poly Pomona with a f
 
 
 ## Featured Projects
+<table>
 
+<tr>
+<td width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60">
+</td>
+
+<td>
+
+**Backend Developer — Evergreen Seed Database**  
+<a href="https://github.com/TheFishEy/evergreen-project">Evergreen Seed Database</a> • SRC Research Project  
+
+Lead developer for a Cal Poly Pomona **Socially Responsible Computing (SRC)** project building a database and interface system for the non-profit **Lopez Urban Farm**.
+
+Designing a backend system to track **seed inventory and exchange records**, coordinating development with a small student team, and building the system using **Java and Spring** to support long-term farm data management.
+
+Languages & Technologies:  
+`Java` `Spring` `Database Design`
+
+</td>
+</tr>
+
+</table>
 ### Evergreen Seed Database (SRC Research Project)
 Lead developer for a Cal Poly Pomona Socially Responsible Computing (SRC) project building a database and interface system for the non-profit Lopez Urban Farm.
 
