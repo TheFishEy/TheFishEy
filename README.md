@@ -45,7 +45,7 @@ Lead developer for a Cal Poly Pomona **Socially Responsible Computing (SRC)** pr
 
 <br>
 <a href="https://github.com/TheFishEy/wsb-sentiment-tracker">
-<img align="left" width="100" style="border-radius:12px; margin-right:12px;" src="https://raw.githubusercontent.com/TheFishEy/TheFishEy/main/assets/redditR.png">
+<img align="left" width="100" style="border-radius:12px; margin-right:12px;" src="https://raw.githubusercontent.com/TheFishEy/TheFishEy/main/assets/redditRG.png">
 </a>
 
 <!--  PROJECT 2: REDDIT WALLSTREETBETS STOCK -->
