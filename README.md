@@ -43,14 +43,6 @@ Languages & Technologies: `Java` `Spring` `Database Design` \
 
 
 
-
-
-
-Java • Spring • Database Design
-
-Repository:  
-https://github.com/TheFishEy/evergreen-project
-
 ---
 
 ### Online Messaging and Forum Application
