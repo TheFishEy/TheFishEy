@@ -9,11 +9,6 @@
 Hi! I'm Patrick, a 3rd year Computer Science student at Cal Poly Pomona with a focus on Backend Engineering and System Design. When I'm not coding, you can find me watching anime, playing basketball, building keyboards, and playing in Marvel Rivals esports.
 
 
-## About
-
-I am a Computer Science student at Cal Poly Pomona interested in backend engineering, systems development, and scalable software design.
-
-My work focuses on building reliable backend systems, experimenting with low-level programming concepts, and developing practical tools such as shells, messaging platforms, and database-backed applications.
 
 
 ## Languages & Tools 
