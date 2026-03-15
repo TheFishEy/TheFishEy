@@ -1,16 +1,17 @@
 <div align="center">
+  <h1>Hi, I'm Patrick</h1>
+    <h3>Backend Engineer • Systems Programming • Java</h3>
 
-#  Hi, I'm Patrick
-
-[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-skyblue?style=for-the-badge&logo=PORTFOLILO)](https://thefishey.com)
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-skyblue?style=for-the-badge)](https://thefishey.com)
 [![RESUME](https://img.shields.io/badge/RESUME-blue?style=for-the-badge&logo=java)](https://docs.google.com/document/d/e/2PACX-1vTCnuLyWMzxys4rbMPkSI8mw9-GnEUeHmBwOSzXaHOVzWs8k4f0yRrmtQCE6aytvNDg6iYIbxEisgLw/pub) 
+<br>
 
 
 
 
 
 </div>
-Hi! I'm Patrick, a 3rd year Computer Science student at Cal Poly Pomona with a focus on Backend Engineering and System Design. When I'm not coding, you can find me watching anime, playing basketball, building keyboards, and playing in Marvel Rivals esports.
+Hi! I'm Patrick, a 3rd year Computer Science student at Cal Poly Pomona with a focus on Backend Engineering and System Design. When I'm not coding, you can find me watching anime, playing basketball, building keyboards, and playing in Marvel Rivals esports.<br>
 
 
 
