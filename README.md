@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Patrick :)</h1>
+  <h1>Hi, I'm Patrick</h1>
     <h3>Backend Engineer • Systems Programming • Java</h3>
 
 [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-skyblue?style=for-the-badge)](https://thefishey.com)
