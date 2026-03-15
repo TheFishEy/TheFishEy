@@ -32,7 +32,7 @@ Hi! I'm Patrick, a 3rd year Computer Science student at Cal Poly Pomona with a f
 
 
 <a href="https://github.com/TheFishEy/evergreen-project">
-<img style="margin-right:10px" align="left" width="80" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img align="left" width="80" height="80" src="assets/evergreen.jpg">
 </a>
 
 **Backend Developer** \
