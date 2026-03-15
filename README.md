@@ -8,9 +8,6 @@
 </div>
 Hi! I'm Patrick, a 3rd year Computer Science student at Cal Poly Pomona with a focus on Backend Engineering and System Design. When I'm not coding, you can find me watching anime, playing basketball, building keyboards, and playing in Marvel Rivals esports.
 
-
-
-
 ## Languages & Tools 
 
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
@@ -18,6 +15,8 @@ Hi! I'm Patrick, a 3rd year Computer Science student at Cal Poly Pomona with a f
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=postgresql)
+![R](https://img.shields.io/badge/R-blue?style=for-the-badge&logo=r)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
