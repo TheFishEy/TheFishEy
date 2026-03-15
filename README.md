@@ -24,10 +24,7 @@ Hi! I'm Patrick, a 3rd year Computer Science student at Cal Poly Pomona with a f
 ![Spring](https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring)
 ![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
 
-**Concepts:** 
-Data Structures  •  Algorithim Engineering  •  Operating Systems  •  Networking Fundamentals •  System Design
 
----
 
 ## Featured Projects
 
