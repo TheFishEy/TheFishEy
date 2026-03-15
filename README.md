@@ -7,7 +7,7 @@
 <br><br>
 
 
-Hi! I'm Patrick Hung, a 3rd year Computer Science student at Cal Poly Pomona with a focus on Backend Engineering and System Design. When I'm not coding, you can find me watching anime, playing basketball, lifting, building keyboards, and playing Valorant or Marvel Rivals esports.
+Hi! I'm Patrick Hung, a 3rd year Computer Science student at Cal Poly Pomona with a focus on Backend Engineering and System Design. When I'm not coding, you can find me watching anime, playing basketball, lifting, building keyboards, and playing Valorant or Marvel Rivals for the school team.
 </div>
 <br><br>
 
