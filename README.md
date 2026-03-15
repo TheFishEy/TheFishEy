@@ -75,6 +75,20 @@ Concurrency simulation in C.
 - Benchmarked execution differences between fork strategies
 - Explored asynchronous execution behavior
 
+
+
+
+<a href="https://github.com/TheFishEy/wsb-sentiment-tracker">
+<img align="left" width="100" style="border-radius:12px; margin-right:12px;" src="https://raw.githubusercontent.com/TheFishEy/TheFishEy/main/assets/wsb.jpg">
+</a>
+
+**Backend / Data Developer** \
+[**WallStreetBets Sentiment Tracker**](https://github.com/TheFishEy/wsb-sentiment-tracker) • Personal Project • `Python` `Reddit API` `Pandas` `SQL` \
+Building a system to analyze stock movement on **r/wallstreetbets** by collecting posts and comments, extracting ticker mentions, and ranking trending stocks using sentiment and engagement signals. \
+<br clear="left"/>
+
+
+
 ---
 
 ## Education
