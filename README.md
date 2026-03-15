@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Patrick</h1>
+  <h1>Hi, I'm Patrick :)</h1>
     <h3>Backend Engineer • Systems Programming • Java</h3>
 
 [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-skyblue?style=for-the-badge)](https://thefishey.com)
@@ -7,7 +7,7 @@
 <br><br>
 
 
-Hi! I'm Patrick, a 3rd year Computer Science student at Cal Poly Pomona with a focus on Backend Engineering and System Design. When I'm not coding, you can find me watching anime, playing basketball, building keyboards, and playing in Marvel Rivals esports.
+Hi! I'm Patrick Hung, a 3rd year Computer Science student at Cal Poly Pomona with a focus on Backend Engineering and System Design. When I'm not coding, you can find me watching anime, playing basketball, building keyboards, and playing in Marvel Rivals esports.
 </div>
 <br><br>
 
