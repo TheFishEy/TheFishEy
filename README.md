@@ -40,7 +40,7 @@ Hi! I'm Patrick Hung, a 3rd year Computer Science student at Cal Poly Pomona wit
 <!--  PROJECT 1: EVERGREEN -->
 **Fullstack Developer** \
 [**Evergreen Seed Database**](https://github.com/TheFishEy/evergreen-project) • SRC Research Project • `Java` `Spring` `Database Design` \
-Lead developer for a Cal Poly Pomona **Socially Responsible Computing (SRC)** project building a database and interface system for the non-profit **Lopez Urban Farm**. \
+Lead developer for a Cal Poly Pomona **Socially Responsible Computing (SRC)** project building a database and interface system for the non-profit **Lopez Urban Farm**, providing a way to monitor and manage seed inventory. \
 <br clear="left"/>
 
 <br>
