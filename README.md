@@ -28,66 +28,6 @@ Hi! I'm Patrick Hung, a 4rd year Computer Science student at Cal Poly Pomona wit
 <br><br>
 
 
-## Featured Projects
-
-
-
-
-<a href="https://github.com/TheFishEy/evergreen-project">
-<img align="left" width="100" style="border-radius:12px; margin-right:12px;" src="https://raw.githubusercontent.com/TheFishEy/TheFishEy/main/assets/evergreen.jpg">
-</a>
-
-<!--  PROJECT 1: EVERGREEN -->
-**Fullstack Developer** \
-[**Evergreen Seed Database**](https://github.com/TheFishEy/evergreen-project) • SRC Research Project • `Java` `Spring` `Database Design` \
-Lead developer for a Cal Poly Pomona **Socially Responsible Computing (SRC)** project building a database and interface system for the non-profit **Lopez Urban Farm**, providing a way to monitor and manage seed inventory. \
-<br clear="left"/>
-
-<br>
-<a href="https://github.com/TheFishEy/wsb-sentiment-tracker">
-<img align="left" width="100" style="border-radius:12px; margin-right:12px;" src="https://raw.githubusercontent.com/TheFishEy/TheFishEy/main/assets/redditRG.png">
-</a>
-
-<!--  PROJECT 2: REDDIT WALLSTREETBETS STOCK -->
-**Backend / Data Developer** \
-[**WallStreetBets Sentiment Tracker**](https://github.com/TheFishEy/wsb-sentiment-tracker) • Personal Project • `Python` `Reddit API` `Pandas` `SQL` \
-Building a system to analyze stock movement on **r/wallstreetbets** by collecting posts and comments, extracting ticker mentions, and ranking trending stocks using sentiment and engagement signals. \
-<br clear="left"/>
-
-
----
-
-### Online Messaging and Forum Application
-Full-stack messaging platform using Firebase.
-
-- Implemented real-time messaging features
-- Enabled cross-device communication
-- Reduced latency in user interactions
-
----
-
-### Custom Unix-Like Shell
-Systems programming project written in C.
-
-- Implemented command execution, piping, redirection, and background processes
-- Modeled Unix process control behavior
-- Optimized execution overhead by ~25%
-
-Repository:  
-https://github.com/TheFishEy/24fa-351/command-shell-TheFishEy
-
----
-
-### Process Forking Simulation
-Concurrency simulation in C.
-
-- Modeled process creation patterns
-- Benchmarked execution differences between fork strategies
-- Explored asynchronous execution behavior
-
-
-
----
 
 ## Education
 
