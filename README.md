@@ -44,8 +44,10 @@ Portfolio: https://thefishey.com
 
 **TokyoYelp**
 https://github.com/TheFishEy/tokyoyelp
+
 Created during the 2026 Hackoberfest MiniHacks Hacktahon. 
 
 **SRC Project Evergreen**
 https://github.com/TheFishEy/evergreen-project
+
 Created during the 2026 Spring Semester in Collaboration with Lopez Urban Farm, for employees and customers to access seed inventory data.
