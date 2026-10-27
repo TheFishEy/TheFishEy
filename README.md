@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Patrick</h1>
+  <h1>Patrick Hung</h1>
     <h3>Backend Engineer • Systems Programming • Java</h3>
 
 
@@ -7,7 +7,7 @@
 <br><br>
 
 
-Hi! I'm Patrick Hung, a 4rd year Computer Science student at Cal Poly Pomona. 
+Hi! I'm Patrick, a Senior Computer Science student at Cal Poly Pomona. I like playing/watching basketball, playing League and Marvel Rivals, watching anime and tv, Aquscaping, 3D printing, and eating nice food.
 
 ## Languages & Tools 
 
